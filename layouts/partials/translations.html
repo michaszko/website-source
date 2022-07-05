@@ -1,5 +1,4 @@
 {{ if .IsTranslated }}
-    <br>
     {{ i18n "translations" }}
     {{ range .Translations }}
     <li><a class="lang-switch" href="{{ .URL | relURL }}">{{.Language.LanguageName }}</a></li>

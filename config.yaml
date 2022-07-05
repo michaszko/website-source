@@ -42,6 +42,7 @@ languages:
           weight: 2
         - name: Kontakt
           url: "pl/contact/"
+          weight: 3
     languageName: Polski 🇵🇱
     weight: 2
 params:
