@@ -1,5 +1,5 @@
 baseurl: "/"
-# title: "Ślub Marii i Michała"
+# title: "Michał Siemaszko personal website"
 googleAnalytics: ""
 disqusShortname: ""
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
@@ -19,18 +19,12 @@ languages:
         - name: Home
           url: ""
           weight: 1
-        - name: Directions
-          url: "directions/"
+        - name: Research 
+          url: "research/"
           weight: 2
-        - name: About ceremony
-          url: "ceremony/"
+        - name: Contact
+          url: "contact/"
           weight: 3
-        - name: About party
-          url: "party/"
-          weight: 4
-        - name: F.A.Q
-          url: "faq/"
-          weight: 5
     languageName: English 🇬🇧
     weight: 1
   pl:
@@ -43,47 +37,19 @@ languages:
         - name: Strona główna
           url: "pl"
           weight: 1
-        - name: Jak dojechać
-          url: "pl/directions/"
+        - name: Badania
+          url: "pl/research/"
           weight: 2
-        - name: O Mszy
-          url: "pl/ceremony/"
-          weight: 3
-        - name: O przyjęciu
-          url: "pl/party/"
-          weight: 4
-        - name: Często zadawane pytania
-          url: "pl/faq/"
-          weight: 5
+        - name: Kontakt
+          url: "pl/contact/"
     languageName: Polski 🇵🇱
     weight: 2
-  ru:
-    title: Русский
-    menu:
-      main:
-        - name: В начало
-          url: "ru"
-          weight: 1
-        - name: Как добраться 
-          url: "ru/directions/"
-          weight: 2
-        - name: О свадебной церемонии
-          url: "ru/ceremony/"
-          weight: 3
-        - name: Банкет
-          url: "ru/party/"
-          weight: 4
-        - name: Часто задаваемые вопросы 
-          url: "ru/faq/"
-          weight: 5 
-    languageName: Русский 🇷🇺
-    weight: 3
 params:
   navigation:
     help: Help
 
 params:
-  description: "A website dedicated to the wedding of Maria and Michal"
+  description: "A personal website of Michał Siemaszko"
   footer: "Made with [Hugo](https://gohugo.io/) and [hugo-xmin](https://github.com/yihui/hugo-xmin)" 
 
 markup:
