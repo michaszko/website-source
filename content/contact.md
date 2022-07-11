@@ -1,3 +1,7 @@
+---
+title: Contact
+---
+
 # You can reach me 
 
 - <i class="fa-solid fa-envelope"></i>: mm.siemaszko2@uw.edu.pl
