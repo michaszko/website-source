@@ -13,7 +13,7 @@ copyright: Everything is mine (almost)
 defaultContentLanguage: en
 languages:
   en:
-    title: English
+    # title: English
     menu:
       main:
         - name: Home
@@ -31,7 +31,7 @@ languages:
     params:
       navigation:
         help: Pomoc
-    title: Polski
+    # title: Polski
     menu:
       main:
         - name: Strona główna
