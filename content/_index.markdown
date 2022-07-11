@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<img src="static/img/me.jpg"
+<img src="img/me.jpg"
 style="max-width:15%;min-width:40px;float:right;" alt="My picture" />
 
 # Halo
